@@ -1,4 +1,4 @@
-package interviewbit.a01_arrays.b03_SimulationArray.c01_MaxNonNegativeSubArray;
+package interviewbit.programming.a01_arrays.b03_SimulationArray.c01_MaxNonNegativeSubArray;
 
 import java.util.ArrayList;
 

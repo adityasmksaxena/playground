@@ -1,4 +1,4 @@
-package interviewbit.a01_arrays.b02_ArrayMath.c06_Flip;
+package interviewbit.programming.a01_arrays.b02_ArrayMath.c06_Flip;
 
 import java.util.ArrayList;
 

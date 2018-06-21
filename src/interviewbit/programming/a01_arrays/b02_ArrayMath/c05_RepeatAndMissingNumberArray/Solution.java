@@ -1,4 +1,4 @@
-package interviewbit.a01_arrays.b02_ArrayMath.c05_RepeatAndMissingNumberArray;
+package interviewbit.programming.a01_arrays.b02_ArrayMath.c05_RepeatAndMissingNumberArray;
 
 import java.util.ArrayList;
 import java.util.List;

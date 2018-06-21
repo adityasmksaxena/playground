@@ -1,4 +1,4 @@
-package interviewbit.a01_arrays.b03_SimulationArray.c05_AntiDiagonals;
+package interviewbit.programming.a01_arrays.b03_SimulationArray.c05_AntiDiagonals;
 
 import java.util.ArrayList;
 

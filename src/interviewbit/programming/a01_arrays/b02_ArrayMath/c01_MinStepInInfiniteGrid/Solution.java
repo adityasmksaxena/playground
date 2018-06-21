@@ -1,4 +1,4 @@
-package interviewbit.a01_arrays.b02_ArrayMath.c01_MinStepInInfiniteGrid;
+package interviewbit.programming.a01_arrays.b02_ArrayMath.c01_MinStepInInfiniteGrid;
 
 import java.util.ArrayList;
 

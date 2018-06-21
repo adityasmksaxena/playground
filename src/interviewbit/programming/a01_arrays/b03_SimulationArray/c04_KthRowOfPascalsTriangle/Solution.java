@@ -1,4 +1,4 @@
-package interviewbit.a01_arrays.b03_SimulationArray.c04_KthRowOfPascalsTriangle;
+package interviewbit.programming.a01_arrays.b03_SimulationArray.c04_KthRowOfPascalsTriangle;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package interviewbit.a01_arrays.b02_ArrayMath.c03_MaxSumContiniousSubArray;
+package interviewbit.programming.a01_arrays.b02_ArrayMath.c03_MaxSumContiniousSubArray;
 
 import java.util.List;
 

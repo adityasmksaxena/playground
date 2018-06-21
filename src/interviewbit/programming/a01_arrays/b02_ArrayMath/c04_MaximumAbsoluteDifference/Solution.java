@@ -1,4 +1,4 @@
-package interviewbit.a01_arrays.b02_ArrayMath.c04_MaximumAbsoluteDifference;
+package interviewbit.programming.a01_arrays.b02_ArrayMath.c04_MaximumAbsoluteDifference;
 
 import java.util.ArrayList;
 

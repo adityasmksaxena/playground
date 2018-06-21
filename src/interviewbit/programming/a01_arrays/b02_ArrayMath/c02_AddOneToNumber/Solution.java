@@ -1,4 +1,4 @@
-package interviewbit.a01_arrays.b02_ArrayMath.c02_AddOneToNumber;
+package interviewbit.programming.a01_arrays.b02_ArrayMath.c02_AddOneToNumber;
 
 import java.util.ArrayList;
 import java.util.Collections;

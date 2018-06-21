@@ -1,4 +1,4 @@
-package interviewbit.a01_arrays.b03_SimulationArray.c03_PascalTriangle;
+package interviewbit.programming.a01_arrays.b03_SimulationArray.c03_PascalTriangle;
 
 import java.util.ArrayList;
 

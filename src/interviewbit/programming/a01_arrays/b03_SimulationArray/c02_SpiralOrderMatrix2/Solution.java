@@ -1,4 +1,4 @@
-package interviewbit.a01_arrays.b03_SimulationArray.c02_SpiralOrderMatrix2;
+package interviewbit.programming.a01_arrays.b03_SimulationArray.c02_SpiralOrderMatrix2;
 
 import java.util.ArrayList;
 

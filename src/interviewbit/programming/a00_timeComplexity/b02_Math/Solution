@@ -1,0 +1,4 @@
+WHILE_CMPL -> O(log N)
+NESTED_CMPL3 -> O(N)
+LOOP_CMPL2 -> Θ(nLogn)
+GCD_CMPL -> Θ(logn)
